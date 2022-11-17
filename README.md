@@ -215,13 +215,13 @@ https://youtu.be/OLAl86IGV5M
 
 ***5. CONCLUSIONES***
 
--Las leyes de Ohm son muy importantes a la hora de calcular los valores de resistencia. Voltaje y corriente, ya que las leyes las relaciona de tal manera que si tenemos datos ya sea de dos cantidades podemos hallar la tercera, mediante despejes de la formula general de la Corriente. 
+*-Las leyes de Ohm son muy importantes a la hora de calcular los valores de resistencia. Voltaje y corriente, ya que las leyes las relaciona de tal manera que si tenemos datos ya sea de dos cantidades podemos hallar la tercera, mediante despejes de la formula general de la Corriente.* 
 
--Las gráficas cuando se relaciona el voltaje con la corriente es una línea recta inclinada que en base a su definición son linealmente proporcionales, mientras cuando se relaciona a la corriente con la resistencia tenemos un comportamiento diferente ya que estas son inversamente proporcionales. Y por las graficas nos podemos dar cuenta de las dos definiciones. 
+*-Las gráficas cuando se relaciona el voltaje con la corriente es una línea recta inclinada que en base a su definición son linealmente proporcionales, mientras cuando se relaciona a la corriente con la resistencia tenemos un comportamiento diferente ya que estas son inversamente proporcionales. Y por las graficas nos podemos dar cuenta de las dos definiciones.* 
 
--Al momento de resolver los ejercicios es importante tener siempre en cuenta la definición de energía y potencia, ya que esta se divide en expresiones que se relacionan con la ley de Ohm, por lo cual es de gran ayuda identificar los datos que se nos proporciona. 
+*-Al momento de resolver los ejercicios es importante tener siempre en cuenta la definición de energía y potencia, ya que esta se divide en expresiones que se relacionan con la ley de Ohm, por lo cual es de gran ayuda identificar los datos que se nos proporciona.* 
 
--Se ha aprendido que el potencial nominal del resistor no tiene nada que ver con el valor óhmico que tiene cada resistencia, si no se basa más en sus características físicas, este potencial es importante saber como funciona ya que, si no se calcula bien su potencial, y la potencia de trabajo del circuito es mayor a la potencia que puede soportar la resistencia, esta se calentara a tal puto que puede perjudicar el funcionamiento del circuito eléctrico. 
+*-Se ha aprendido que el potencial nominal del resistor no tiene nada que ver con el valor óhmico que tiene cada resistencia, si no se basa más en sus características físicas, este potencial es importante saber como funciona ya que, si no se calcula bien su potencial, y la potencia de trabajo del circuito es mayor a la potencia que puede soportar la resistencia, esta se calentara a tal puto que puede perjudicar el funcionamiento del circuito eléctrico.* 
 
 
 ***6.BIBLIOGRAFÍA***
