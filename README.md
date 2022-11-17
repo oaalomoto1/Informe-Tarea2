@@ -208,3 +208,39 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/202332653-3337f4eb-0e8f-4ec8-a7eb-a8b421849c15.png)
 
+
+***4. VIDEO***
+
+Link del video en YouTube
+
+https://www.youtube.com/watch?v=JOxXHBbThmE
+
+***5. CONCLUSIONES***
+
+-La notación científica es muy importante en una ingeniería, mas si se trata de obtener medidas demasiado grandes o demasiado pequeñas, lo cual nos permite reducir tal número a una expresión en la cual se pueda comprender de mejor manera y realizar los cálculos con mayor facilidad.
+
+-La importancia que tiene el átomo de carbono es muy destacable ya que su estructura atómica es perfecta para ser un buen conductor de energía eléctrica, además agregar su bajo costo, lo cual lo hace ser muy usada en circuitos eléctricos como conductor favorito.
+
+-Las definiciones de voltaje, corriente, resistencia hay que tenerlas muy en cuanta como del voltaje la cual es la potencia que provoca que se mueva la carga, corriente que es la velocidad que se mueven la carga y la resistencia la cual es la oposición al caso de corriente, estas definiciones son muy importantes aprenderlas ya que serán la base de todo tema a tratar en este semestre en un futuro.
+
+-En el segundo capitulo se entendio como se debe medir de manera correcta el voltaje, la corriente y la resistencia, así mismo se logro identificar sus aparatos de medición y sus respectivas unidades de medida, que son de gran ayuda al momento de armar un circuito eléctrico y realizar su respectivo cálculo matemático.
+
+***6.BIBLIOGRAFÍA***
+
+-Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
+
+-Jimenez, A. (2020, 2 de octubre). RESISTENCIAS FIJAS O RESISTORES ELÉCTRICOS. Recuperado de.
+
+https://geekelectronica.com/resistencias-fijas-o-resistores-electricos/
+
+-Manzanas, J. (2021, 22 de abril). Qué es un átomo: características y partes. Recuperado de.
+
+https://okdiario.com/curiosidades/que-atomo-definicion-estructura-601498
+
+-Pina, S. (2022, 9 de julio). Notación científica. Recuperado de.
+
+https://www.todamateria.com/notacion-cientifica/
+
+-Rivera, J. (2019, 18 de junio). VOLTAJE, CORRIENTE Y RESISTENCIA. Recuperado de.
+
+https://pasionelectronica.com/voltaje-corriente-y-resistencia/
