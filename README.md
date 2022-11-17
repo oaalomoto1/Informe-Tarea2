@@ -190,7 +190,7 @@
 
 **28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caida de voltaje entre los extremos del resistor.**
 
-![image](https://user-images.githubusercontent.com/116774906/202332445-ae7581fe-8241-4c71-adc8-d9742e96437a.png)
+![image](https://user-images.githubusercontent.com/116774906/202332858-9ddcaa21-55a3-42f4-9d09-8192ec1c45f5.png)
 
 **30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
 
