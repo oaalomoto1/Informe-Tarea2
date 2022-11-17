@@ -5,7 +5,7 @@
 
 **1.1 OBJETIVO GENERAL.**
 
--*Aprender las leyes de ohm que relaciona voltaje, corriente y resistencia, con los principios que rigen la energía y potencia con ayuda de organizadores gráficos que contendrán la información más importante para una mejor comprensión de los temas que se derivan de estos dos. * 
+-*Aprender las leyes de ohm que relaciona voltaje, corriente y resistencia, con los principios que rigen la energía y potencia con ayuda de organizadores gráficos que contendrán la información más importante para una mejor comprensión de los temas que se derivan de estos dos.* 
 
  **1.2 OBJETIVOS ESPECÍFICOS.**
 
@@ -226,20 +226,11 @@ https://youtu.be/OLAl86IGV5M
 
 ***6.BIBLIOGRAFÍA***
 
--Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
+-Floyd, T. L. (2007). *Principios de circuitos electricos*. (8.a ed.). México. Pearson Educación.
 
--Jimenez, A. (2020, 2 de octubre). RESISTENCIAS FIJAS O RESISTORES ELÉCTRICOS. Recuperado de.
+-Gouveia, R. (2022, 18 de febrero). *Ley de Ohm*. Recuperado de. https://www.todamateria.com/ley-de-ohm/  
 
-https://geekelectronica.com/resistencias-fijas-o-resistores-electricos/
+-Fernández, J. (s.f). *Potencia*. Recuperado de. https://www.fisicalab.com/apartado/potencia-fisica
 
--Manzanas, J. (2021, 22 de abril). Qué es un átomo: características y partes. Recuperado de.
+-*¿Que la potencia nominal?*. (2021, 23 de diciembre). Recuperado de. https://organosdepalencia.com/biblioteca/articulo/read/64613-que-la-potencia-nominal
 
-https://okdiario.com/curiosidades/que-atomo-definicion-estructura-601498
-
--Pina, S. (2022, 9 de julio). Notación científica. Recuperado de.
-
-https://www.todamateria.com/notacion-cientifica/
-
--Rivera, J. (2019, 18 de junio). VOLTAJE, CORRIENTE Y RESISTENCIA. Recuperado de.
-
-https://pasionelectronica.com/voltaje-corriente-y-resistencia/
