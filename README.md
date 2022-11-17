@@ -5,20 +5,18 @@
 
 **1.1 OBJETIVO GENERAL.**
 
--*Estudiar las Cantidades, medidas, voltaje, corriente y resistencia que surgen al momento de armar un circuito eléctrico con ayuda de fuentes de información disponibles,
- para poder dominar el tema que respecta a fundamentos de circuitos eléctricos.* 
+-*Aprender las leyes de ohm que relaciona voltaje, corriente y resistencia, con los principios que rigen la energía y potencia con ayuda de organizadores gráficos que contendrán la información más importante para una mejor comprensión de los temas que se derivan de estos dos. * 
 
  **1.2 OBJETIVOS ESPECÍFICOS.**
 
--*Identificar la importancia de la notación científica y notación de ingeniería para cálculos en circuitos eléctricos.*
+-*Estudiar las leyes ohm para poder calcular los valores de resistencia, voltaje y corriente.*
 
--*Investigar la importancia del átomo en la materia y como este es importante en la electricidad moderna.* 
+-*Observar el comportamiento de las gráficas cuando se relaciona el voltaje con la corriente y la resistencia con la corriente.*
 
--*Analizar las definiciones de voltaje, corriente y resistencia y como estas se relacionan.*
+-*Aplicar la definición de potencia y energía en la resolución de ejercicios.*
 
--*Identificar los elementos que componen un circuito básico.*
+-*Analizar el potencial nominal del resistor, y en como este influye en la protección de los elementos de un circuito eléctrico.* 
 
--*Aprender como medir el voltaje, la intensidad de corriente y la resistencia de un circuito básico.*
 
 ***2. MARCO TEÓRICO (RESUMEN)***
 
@@ -213,17 +211,18 @@
 
 Link del video en YouTube
 
-https://www.youtube.com/watch?v=JOxXHBbThmE
+https://youtu.be/OLAl86IGV5M
 
 ***5. CONCLUSIONES***
 
--La notación científica es muy importante en una ingeniería, mas si se trata de obtener medidas demasiado grandes o demasiado pequeñas, lo cual nos permite reducir tal número a una expresión en la cual se pueda comprender de mejor manera y realizar los cálculos con mayor facilidad.
+-Las leyes de Ohm son muy importantes a la hora de calcular los valores de resistencia. Voltaje y corriente, ya que las leyes las relaciona de tal manera que si tenemos datos ya sea de dos cantidades podemos hallar la tercera, mediante despejes de la formula general de la Corriente. 
 
--La importancia que tiene el átomo de carbono es muy destacable ya que su estructura atómica es perfecta para ser un buen conductor de energía eléctrica, además agregar su bajo costo, lo cual lo hace ser muy usada en circuitos eléctricos como conductor favorito.
+-Las gráficas cuando se relaciona el voltaje con la corriente es una línea recta inclinada que en base a su definición son linealmente proporcionales, mientras cuando se relaciona a la corriente con la resistencia tenemos un comportamiento diferente ya que estas son inversamente proporcionales. Y por las graficas nos podemos dar cuenta de las dos definiciones. 
 
--Las definiciones de voltaje, corriente, resistencia hay que tenerlas muy en cuanta como del voltaje la cual es la potencia que provoca que se mueva la carga, corriente que es la velocidad que se mueven la carga y la resistencia la cual es la oposición al caso de corriente, estas definiciones son muy importantes aprenderlas ya que serán la base de todo tema a tratar en este semestre en un futuro.
+-Al momento de resolver los ejercicios es importante tener siempre en cuenta la definición de energía y potencia, ya que esta se divide en expresiones que se relacionan con la ley de Ohm, por lo cual es de gran ayuda identificar los datos que se nos proporciona. 
 
--En el segundo capitulo se entendio como se debe medir de manera correcta el voltaje, la corriente y la resistencia, así mismo se logro identificar sus aparatos de medición y sus respectivas unidades de medida, que son de gran ayuda al momento de armar un circuito eléctrico y realizar su respectivo cálculo matemático.
+-Se ha aprendido que el potencial nominal del resistor no tiene nada que ver con el valor óhmico que tiene cada resistencia, si no se basa más en sus características físicas, este potencial es importante saber como funciona ya que, si no se calcula bien su potencial, y la potencia de trabajo del circuito es mayor a la potencia que puede soportar la resistencia, esta se calentara a tal puto que puede perjudicar el funcionamiento del circuito eléctrico. 
+
 
 ***6.BIBLIOGRAFÍA***
 
